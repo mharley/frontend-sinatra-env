@@ -1,0 +1,12 @@
+#IDE
+*.idea
+*.swp
+*~
+.DS_Store
+
+
+# Project files
+Gemfile.lock
+.sass-cache
+tmp/sass-cache/*
+
