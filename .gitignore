@@ -6,7 +6,9 @@
 
 
 # Project files
-Gemfile.lock
+.vagrant
 .sass-cache
+nohum.out
 tmp/sass-cache/*
+Gemfile.lock
 
